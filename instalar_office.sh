@@ -2,7 +2,7 @@
 
 # ==============================================================================
 # SCRIPT DE INSTALACIÓN AUTOMATIZADA DE OFFICE 365 PARA LINUX (Ubuntu/Debian)
-# Basado en las instrucciones proporcionadas en el PDF
+# Basado en las instrucciones proporcionadas en el https://youtu.be/jP0y5Pdq2HU?si=d_5_3EojYOXrMsz7
 # ==============================================================================
 
 set -e # Detener el script si ocurre un error
