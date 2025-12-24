@@ -7,4 +7,7 @@
 ``` chmod +x instalar_office.sh```
 ### 5. Ejecútalo:
 ``` ./instalar_office.sh```
+[aquí encontrarás los archivos necesarios](https://youtu.be/jP0y5Pdq2HU?si=d_5_3EojYOXrMsz7)
+
+
 (Te pedirá tu contraseña de usuario porque necesita usar sudo para instalar los programas).
